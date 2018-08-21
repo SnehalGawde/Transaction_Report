@@ -7,7 +7,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.CommandLineRunner;
 
-import java.io.IOException;
 import java.nio.file.*;
 import java.util.Map;
 import java.util.stream.Collectors;
